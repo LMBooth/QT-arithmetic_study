@@ -14,7 +14,8 @@ python mainExperiment.py
 ```
 
 ## Requirements
-- Python 3.12+ (developed on Windows; update if your environment differs)
+- Python 3.9+ 
+- OS: Windows (developed on Windows 11 Professional)
 - PyQt5, pylsl, numpy (see `requirements.txt`)
 - A GUI display server (X11/Wayland on Linux)
 - An LSL recorder/receiver if you want to capture markers

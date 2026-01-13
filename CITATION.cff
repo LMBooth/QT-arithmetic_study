@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it."
 title: 7 Difficulty Levels + Baseline Arithmetic Study
+message: "If you use this software, please cite it."
 type: software
 authors:
   - family-names: Booth
