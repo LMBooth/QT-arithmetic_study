@@ -1,6 +1,7 @@
 ################ main.py ########################
 # Written by Liam Booth 18/02/2023              #
 #################################################
+"""PyQt5 experiment runner that emits LSL markers during arithmetic trials."""
 from PyQt5 import QtWidgets, QtCore, QtGui
 from PyQt5.QtCore import QTimer
 from PyQt5.QtGui import QFont
@@ -9,10 +10,12 @@ import pickle, random
 import numpy as np
 
 class MainExperiment(QtWidgets.QTabWidget):    
+    """Tab widget that runs tutorial and experiment blocks."""
     currentQ = 0
     tutorial = True
 
     def __init__(self):        
+        """Build the UI, load questions, and initialize the LSL stream."""
         super(MainExperiment, self).__init__()
         self.buttonBeginRoutine = QtWidgets.QPushButton('Begin Tutorial')
         self.buttonBeginRoutine.clicked.connect(self.BeginRoutine)
@@ -60,17 +63,11 @@ class MainExperiment(QtWidgets.QTabWidget):
             random.shuffle(self.tutorialqs)
             random.shuffle(self.questions)
             fp.close()
-
-        print(len(self.questions))
-        print(self.questions[0])
-        print(len(self.tutorialqs))    
-        print(self.tutorialqs[0])    
         markerInfo = pylsl.StreamInfo("arithmetic-Markers", 'Markers', 1, 0, 'string', 'UoH')
         self.markerOutlet = pylsl.StreamOutlet(markerInfo)
-        #questionInfo = pylsl.StreamInfo("arithmetic-Question-Info", 'Markers', 1, 0, 'string', 'UoH')
-        #self.questionInfoOutlet = pylsl.StreamOutlet(questionInfo)
 
     def BeginRoutine(self): 
+        """Begin tutorial or experiment and schedule the first trial."""
         if self.tutorial:
             self.markerOutlet.push_sample(["Started tutorial artihmetic"])
         else:    
@@ -85,6 +82,7 @@ class MainExperiment(QtWidgets.QTabWidget):
             QTimer.singleShot(1000, self.DoRoutine)
     
     def DoRoutine(self):
+        """Advance the trial state and present the next arithmetic prompt."""
         self.text.setFont(QFont('Times', 110))
         if self.tutorial: # run routine but base of tutorial trial counts, allows custom ending
             if len(self.tutorialqs) > 0:
@@ -103,13 +101,8 @@ class MainExperiment(QtWidgets.QTabWidget):
                 self.markerOutlet.push_sample(["Finished tutorial Arithmetic"])
         else: # runs actual experiment count and ending
             i = sum(len(v[0]) for v in self.questions)
-            #print(i)
             if i > 0:
                 rand = random.randint(0, len( self.questions)-1)
-                #print(rand)
-                #print(len(self.questions))
-                #print(self.questions[rand])
-                #print(self.questions[rand][0])
                 self.question = [self.questions[rand][0].pop(0), self.questions[rand][1]]
                 print(self.question)
                 print(len(self.questions[rand][0]))
@@ -127,6 +120,7 @@ class MainExperiment(QtWidgets.QTabWidget):
                 self.markerOutlet.push_sample(["Finished Arithmetic"])
 
     def DoAnswerInputRoutine(self):
+        """Show the answer input box and emit the difficulty marker."""
         self.text.hide()
         self.lineEdit.show()
         self.lineEdit.setFocus()
@@ -134,6 +128,7 @@ class MainExperiment(QtWidgets.QTabWidget):
         self.markerOutlet.push_sample([s])
     
     def eventFilter(self, source, event):
+        """Handle key input in the answer box."""
         if (event.type() == QtCore.QEvent.KeyPress and source is self.lineEdit):
             if (event.key() == QtCore.Qt.Key_Enter) or  (event.key() == QtCore.Qt.Key_Space) or (event.key() == QtCore.Qt.Key_Return):
                 self.HandleAnswer()
@@ -150,6 +145,7 @@ class MainExperiment(QtWidgets.QTabWidget):
             return super(MainExperiment, self).eventFilter(source, event)
     
     def HandleAnswer(self):
+        """Record correctness marker and advance to the next trial."""
         self.text.show()
         self.text.setText("")
         self.lineEdit.hide()
@@ -163,7 +159,6 @@ class MainExperiment(QtWidgets.QTabWidget):
             s = s +" tutorial"    
         print(s)    
         self.markerOutlet.push_sample([s])
-        #self.questionInfoOutlet.push_sample([str(self.question[0][0]) + " + " + str(self.question[0][1]) + " = " + self.lineEdit.text()])
         self.lineEdit.setText("")
         QTimer.singleShot(500, self.DoRoutine)
 

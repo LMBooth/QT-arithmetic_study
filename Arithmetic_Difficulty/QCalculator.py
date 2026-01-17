@@ -12,10 +12,12 @@
 #-------------------------------------------------------------------------------#
 # Any issues or comments please contact - 	liam.booth@hull.ac.uk				#
 #-------------------------------------------------------------------------------#
+"""Q-value helpers for generating arithmetic questions."""
 from math import log10
 import random
 # Calculates q value according too other papers and Thomas, 3(x+y) for carry over and 3(x+y)+2 for not a carry over
 def Q_addition_old(int1, int2):
+	"""Return the legacy Q value for adding two integers."""
 	Q, c, offset = 0, 0, 1
 	if int1 == 0 or int2 == 0: return 0
 	while (offset-1 < max(len(str(int1)),len(str(int2)))): # iterate through while loop, creating a summation of q value until no digits are left
@@ -49,6 +51,7 @@ def Q_addition_old(int1, int2):
 	
 # Calculates q value for liams extended rules for Thomas, 3(x+y) for carry over and 3(x+y)+2 for not a carry over
 def Q_addition_long(int1, int2):
+	"""Return the extended Q value for adding two integers."""
 	Q = 0 		# Q = Totsl q-value, 
 	c = 0 		# c = Carry over occured from previous position, 
 	offset = 1 	# offset = Tracker for current digit pair
@@ -95,6 +98,7 @@ def Q_addition_long(int1, int2):
 
 # Calculates q value according too other papers and Thomas, 3(x+y) for carry over and 3(x+y)+2 for not a carry over
 def Q_addition(int1, int2):
+	"""Return the default Q value for adding two integers."""
 	Q = 0 		# Q = Totsl q-value, 
 	c = 0 		# c = Carry over occured from previous position, 
 	offset = 1 	# offset = Tracker for current digit pair
@@ -120,6 +124,7 @@ def Q_addition(int1, int2):
 	return Q # return total Q
 	
 def find_elements(int1,int2):
+	"""Return the element count used by the alternate Q formulation."""
 	elements = len(str(int1))+len(str(int2))
 	totallog = 0
 	total = 1
@@ -153,6 +158,7 @@ def find_elements(int1,int2):
 	return float(elements)
     
 def Generate_Q_Question(qmin, qmax, intmax):
+    """Generate a [n1, n2] pair with Q value in the target range."""
     curq = 0 
     if qmin >= qmax:
         return None

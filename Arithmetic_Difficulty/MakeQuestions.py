@@ -1,3 +1,4 @@
+"""Generate and pickle arithmetic question sets for the experiment."""
 import QCalculator as qc
 import pickle
 questions = []

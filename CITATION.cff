@@ -2,6 +2,10 @@ cff-version: 1.2.0
 title: 7 Difficulty Levels + Baseline Arithmetic Study
 message: "If you use this software, please cite it."
 type: software
+version: 1.0.0
+date-released: 2025-01-17
+license: CC0-1.0
+repository-code: "https://github.com/LMBooth/QT-arithmetic_study"
 authors:
   - family-names: Booth
     given-names: Liam
