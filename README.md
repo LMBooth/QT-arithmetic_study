@@ -38,7 +38,6 @@ python mainExperiment.py
 - Python 3.11+ 
 - OS: Windows (developed on Windows 11 Professional)
 - PyQt5, pylsl, numpy (see `requirements.txt`)
-- A GUI display server (X11/Wayland on Linux)
 - An LSL recorder/receiver if you want to capture markers
 - On some Linux setups, `pylsl` may require a separate `liblsl` install
 
