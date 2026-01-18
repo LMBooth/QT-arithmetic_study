@@ -62,7 +62,7 @@ From the repo root (`QT-arithmetic_study`), create a virtual environment and
 install the conversion dependencies.
 
 Create the venv (use the Python you want for the pipeline, e.g. `python`,
-`py -3.12`, or `python312`):
+`py -3.12`, or `python`):
 ```bash
 python -m venv .venv_bids
 ```
@@ -90,7 +90,7 @@ $env:PYTHONPATH = ""
 
 Install requirements:
 ```bash
-python312 -m pip install -r conversion_package/requirements.txt
+python -m pip install -r conversion_package/requirements.txt
 ```
 
 Optional: install the QC viewer dependencies:
@@ -101,7 +101,7 @@ python -m pip install -r conversion_package/requirements-qc.txt
 All steps below assume the venv is activated so `python` points to it. On
 Windows, if `python` resolves to the Microsoft Store stub or isn't found, use
 the venv executable explicitly (for example `.\.venv_bids\Scripts\python.exe`
-or `.\.venv_bids\Scripts\python312.exe`, whichever exists). To check, run:
+ To check, run:
 ```powershell
 Get-ChildItem .\.venv_bids\Scripts\python*.exe
 ```
@@ -166,7 +166,7 @@ This step:
 
 ```powershell
 # Arithmetic
-python312 .\conversion_package\scripts\postprocess_bids.py `
+python .\conversion_package\scripts\postprocess_bids.py `
   --bids-root bids_arithmetic `
   --overwrite `
   --ecg-map conversion_package\config\ecg_channel_map.json `

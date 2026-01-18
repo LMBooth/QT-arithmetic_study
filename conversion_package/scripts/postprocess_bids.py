@@ -521,7 +521,8 @@ def apply_eeg_sidecar_defaults(*, bids_root: Path, metadata: dict[str, Any]) -> 
     if "HeadCircumference" not in defaults:
         drop_keys.append("HeadCircumference")
 
-    for eeg_json in bids_root.glob(f"sub-*/eeg/*_task-{task}_eeg.json"):
+    eeg_jsons = list(bids_root.glob(f"sub-*/eeg/*_task-{task}_eeg.json"))
+    for eeg_json in eeg_jsons:
         data = _load_json(eeg_json)
         for key in drop_keys:
             data.pop(key, None)
@@ -536,6 +537,16 @@ def apply_eeg_sidecar_defaults(*, bids_root: Path, metadata: dict[str, Any]) -> 
         for key in drop_keys:
             data.pop(key, None)
         data.update(defaults)
+        _write_json(task_sidecar, data)
+    elif eeg_jsons:
+        data = _load_json(eeg_jsons[0])
+        if "HardwareFilters" not in defaults:
+            data.pop("HardwareFilters", None)
+        for key in drop_keys:
+            data.pop(key, None)
+        data.update(defaults)
+        if "TaskName" not in data:
+            data["TaskName"] = task
         _write_json(task_sidecar, data)
 
 

@@ -1,0 +1,29 @@
+{
+  "TaskName": "arithmetic",
+  "TaskDescription": "Mental arithmetic task with difficulty defined by Q-value ranges; trial order randomized.",
+  "Instructions": "Solve each arithmetic problem and respond according to task instructions.",
+  "CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_4f24179122380",
+  "SamplingFrequency": 250.0,
+  "PowerLineFrequency": 50.0,
+  "EEGReference": "linked ears (Ag/AgCl)",
+  "SoftwareFilters": "n/a",
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "n/a",
+  "InstitutionName": "n/a",
+  "InstitutionAddress": "n/a",
+  "InstitutionalDepartmentName": "n/a",
+  "CapManufacturer": "n/a",
+  "CapManufacturersModelName": "n/a",
+  "SubjectArtefactDescription": "n/a",
+  "Manufacturer": "io:bio",
+  "ManufacturersModelName": "io:bio mobile EEG system",
+  "HardwareFilters": {
+    "Low-pass filter": {
+      "Half amplitude cutoff (Hz)": 125
+    },
+    "Notch filter": {
+      "Center frequency (Hz)": 50
+    }
+  },
+  "CogPOID": "n/a"
+}

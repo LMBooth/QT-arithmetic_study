@@ -9,6 +9,7 @@ env/
 venv/
 ENV/
 *.egg-info/
+markers_arithmetic/
 bids_arithmetic/
 bids_stub/
 dist/

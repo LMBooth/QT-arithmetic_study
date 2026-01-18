@@ -1,10 +1,10 @@
 {
-  "created_utc": "2026-01-17T18:18:34Z",
+  "created_utc": "2026-01-18T17:32:36Z",
   "repo_root": ".",
   "environment": {
     "python": {
       "version": "3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]",
-      "executable": "C:\\Python312\\python312.exe",
+      "executable": "C:\\Python312\\python.exe",
       "implementation": "CPython"
     },
     "platform": {
@@ -159,143 +159,143 @@
     "pip_freeze_error": null
   },
   "git": {
-    "commit": "1c515284d3eb99f332d7cf7f9b9c90da44c647d5",
+    "commit": "9650120733b8a711731c4b9af9cc8594dbbeac28",
     "dirty": true,
-    "describe": "1c51528-dirty"
+    "describe": "9650120-dirty"
   },
   "inputs": {
     "raw_dirs": [
       {
-        "path": "Arithmetic_Data/Arithmetic_Data",
+        "path": "Arithmetic_Data/sourcedata",
         "file_count": 18
       }
     ],
     "raw_xdf": [
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/001_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/001_arithmetic.xdf",
         "size_bytes": 48686194,
         "mtime_utc": "2023-04-19T14:17:20Z",
         "sha256": "d000a79aa6fe3a80042cc32220f5251d8892f2303937f52ff07d045b356dbb16",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/003_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/003_arithmetic.xdf",
         "size_bytes": 53305036,
         "mtime_utc": "2023-06-19T17:19:02Z",
         "sha256": "6095a0b129af0a72ec4a68be8b3c45def60bad9d071ef23edff2a954073f7b40",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/004_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/004_arithmetic.xdf",
         "size_bytes": 54437370,
         "mtime_utc": "2023-04-19T16:27:48Z",
         "sha256": "dfe11f71bb2a8db27213c7294563164a627ce13d9af4b958b9991b3b787fb9e4",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/005_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/005_arithmetic.xdf",
         "size_bytes": 64784295,
         "mtime_utc": "2023-04-21T12:23:18Z",
         "sha256": "2c5ddbef56d5f7ec7c83395bdc09bbe7de1f2f283c6ce4bc301657e9075f9df4",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/006_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/006_arithmetic.xdf",
         "size_bytes": 58106104,
         "mtime_utc": "2023-04-24T11:57:22Z",
         "sha256": "1a2893f9dd2d47ef5a8c94b49f39ac771cb43afbfabaad17d2ec81830814f1e5",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/007_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/007_arithmetic.xdf",
         "size_bytes": 60369735,
         "mtime_utc": "2023-04-24T14:08:12Z",
         "sha256": "4ebcb9c4c84521bd1da4139ca422c442d5d0a9b2c4e3565f8df8a9418508988b",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/008_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/008_arithmetic.xdf",
         "size_bytes": 108313545,
         "mtime_utc": "2023-04-26T19:10:08Z",
         "sha256": "bf6bbfbaf51303a5bcad39b4ee32e6e723e3539fe05f3bee03b8b3c7dddf830f",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/009_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/009_arithmetic.xdf",
         "size_bytes": 60438815,
         "mtime_utc": "2023-04-27T14:25:44Z",
         "sha256": "522f5f282d12e3bbfb9f3b16d1993611b44ef9ac815aacfd4061511843d17588",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/010_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/010_arithmetic.xdf",
         "size_bytes": 75339938,
         "mtime_utc": "2023-05-01T12:28:28Z",
         "sha256": "8dc6c1b3acafe3ca02561115036abddd13b17e0d7d5fb23d24d7db7b7b4abf2c",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/011_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/011_arithmetic.xdf",
         "size_bytes": 84506647,
         "mtime_utc": "2023-05-02T11:17:42Z",
         "sha256": "6df4a2a5b5cc3f9538eb9146ca3a28cdfbff935b26886361f20c9b75e3c83034",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/012_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/012_arithmetic.xdf",
         "size_bytes": 55822856,
         "mtime_utc": "2023-05-02T14:32:22Z",
         "sha256": "3012f005740658261520cb3d536167a76f3c0d6a9b32f12a397b5b5a6078b8b1",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/013_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/013_arithmetic.xdf",
         "size_bytes": 56516442,
         "mtime_utc": "2023-05-09T12:02:42Z",
         "sha256": "51f67f0a517f3a0cfcc1e8eecc0269ffe77aecfe84d3404b351263a38ba20a30",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/014_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/014_arithmetic.xdf",
         "size_bytes": 62880057,
         "mtime_utc": "2023-05-15T12:33:14Z",
         "sha256": "c0aa36d6d27ec08e25b57c6fe5ed006227572ca3c21099b6c66a698ac71b0c7d",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/015_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/015_arithmetic.xdf",
         "size_bytes": 57863475,
         "mtime_utc": "2023-05-16T12:05:36Z",
         "sha256": "9f1492f2ef8c8e850da71800439f7aa2cda757bcae54145b17be7188849337c4",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/016_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/016_arithmetic.xdf",
         "size_bytes": 80123572,
         "mtime_utc": "2023-06-06T18:20:16Z",
         "sha256": "6cd5c8467299c7d841356f3f5ef504088f6d1f84d76e41d18b9d30858fc06d19",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/018_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/018_arithmetic.xdf",
         "size_bytes": 64108379,
         "mtime_utc": "2023-06-07T19:43:48Z",
         "sha256": "9aa91f8fb2deed32fd33fdbf09da3f711b78b200f1f5c1c44a3d406c683f2b7b",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/019_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/019_arithmetic.xdf",
         "size_bytes": 58810374,
         "mtime_utc": "2023-06-16T16:28:22Z",
         "sha256": "e2918adce77a7c85d31f4dd77fcda26a5a1b8135411123fd87bf98a3a06f21dc",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       },
       {
-        "path": "Arithmetic_Data/Arithmetic_Data/020_arithmetic.xdf",
+        "path": "Arithmetic_Data/sourcedata/020_arithmetic.xdf",
         "size_bytes": 57675220,
         "mtime_utc": "2023-06-27T18:11:04Z",
         "sha256": "a394fc7eb4c7a98418764af52648a1a2ce12004742ea6bac69de49597bf967d9",
-        "source_dir": "Arithmetic_Data/Arithmetic_Data"
+        "source_dir": "Arithmetic_Data/sourcedata"
       }
     ],
     "participant_info_xlsx": {
@@ -308,6 +308,12 @@
   "conversion_package": {
     "files": [
       {
+        "path": "conversion_package/config/dataset_description_defaults.json",
+        "size_bytes": 234,
+        "mtime_utc": "2026-01-17T19:02:47Z",
+        "sha256": "efdd748e05fb3aa66fd1fca114388d50cfa18d9825c7dd0e010092a157a8734f"
+      },
+      {
         "path": "conversion_package/config/ecg_channel_map.json",
         "size_bytes": 592,
         "mtime_utc": "2026-01-17T16:37:15Z",
@@ -315,9 +321,9 @@
       },
       {
         "path": "conversion_package/config/sidecar_defaults.json",
-        "size_bytes": 641,
-        "mtime_utc": "2026-01-17T16:37:18Z",
-        "sha256": "8f7caafee539278e70abeffeeb21df1d1599090989aa83b0df20eda90ad2ab85"
+        "size_bytes": 1061,
+        "mtime_utc": "2026-01-17T19:03:06Z",
+        "sha256": "828a0049d78b96a48661367992f32f41c3a490c0b77f973fbe08a1c465f49ed0"
       },
       {
         "path": "conversion_package/qc/bids_signal_viewer.py",
@@ -333,9 +339,15 @@
       },
       {
         "path": "conversion_package/README.md",
-        "size_bytes": 9551,
-        "mtime_utc": "2026-01-17T18:18:28Z",
-        "sha256": "41ce9a240f0fc2d87de40a2e0949735aa6c7ea1a22d19011134f6c9be50d18f5"
+        "size_bytes": 10261,
+        "mtime_utc": "2026-01-18T16:25:38Z",
+        "sha256": "75d12e6f475f0753ef0f5d1192ead1443e8ebedf9bc0f4fa376f26ddac8a4ee3"
+      },
+      {
+        "path": "conversion_package/reports/conversion_manifest.json",
+        "size_bytes": 15208,
+        "mtime_utc": "2026-01-17T18:18:34Z",
+        "sha256": "d138b2ffead88cdf8eb3ce2b896f13b0dfb6785213b8baa711f6d278a7f87aa2"
       },
       {
         "path": "conversion_package/requirements-qc.txt",
@@ -345,9 +357,9 @@
       },
       {
         "path": "conversion_package/requirements.lock.txt",
-        "size_bytes": 557,
-        "mtime_utc": "2026-01-13T00:36:36Z",
-        "sha256": "1592ca5c4a18ee9df989005b31256ed5d23656509cea6060ec601a81c5dcf55f"
+        "size_bytes": 2512,
+        "mtime_utc": "2026-01-17T18:18:34Z",
+        "sha256": "b3097402089ffe24288a7143776674fce62fbe349d2727db4d7a4f51164ef73e"
       },
       {
         "path": "conversion_package/requirements.txt",
@@ -363,9 +375,9 @@
       },
       {
         "path": "conversion_package/scripts/extract_arithmetic_markers.py",
-        "size_bytes": 2061,
-        "mtime_utc": "2026-01-03T12:25:11Z",
-        "sha256": "f445394d2f81473cf6e76f8c35c7956c9abbe3fedee1f29370e40fee5d31135e"
+        "size_bytes": 2056,
+        "mtime_utc": "2026-01-17T19:10:54Z",
+        "sha256": "85ecafae47b0d2937091ec2179f223bf0dbd1b689693ec614806e889809da13e"
       },
       {
         "path": "conversion_package/scripts/fix_physio_headers.py",
@@ -381,9 +393,9 @@
       },
       {
         "path": "conversion_package/scripts/postprocess_bids.py",
-        "size_bytes": 32355,
-        "mtime_utc": "2026-01-17T16:38:52Z",
-        "sha256": "6f4833167b6042cfa5960559638fea31cf8337a107dbb1d991fb7ed65df5c46a"
+        "size_bytes": 34379,
+        "mtime_utc": "2026-01-18T15:54:01Z",
+        "sha256": "2c6025e45d9ff7915212f3a00ffa2b3df968f50b679ca2213228ca38782766a6"
       },
       {
         "path": "conversion_package/scripts/prepare_sourcedata_xdf.py",
@@ -411,9 +423,9 @@
       },
       {
         "path": "conversion_package/scripts/update_participants_from_xlsx.py",
-        "size_bytes": 14358,
-        "mtime_utc": "2026-01-17T16:37:52Z",
-        "sha256": "455b2566b678eb711ae1078cd3bf6c9aac2fae6b327c3be0430bc175fe0dc559"
+        "size_bytes": 14353,
+        "mtime_utc": "2026-01-17T19:10:58Z",
+        "sha256": "cd2e0b6865ebcc48bad5529b815353fefe50a21d1df2be87ca9563a43847b54e"
       }
     ]
   },
@@ -421,8 +433,8 @@
     {
       "path": "bids_arithmetic",
       "subject_count": 18,
-      "file_count": 223,
-      "total_bytes": 2062202161
+      "file_count": 224,
+      "total_bytes": 2062216557
     }
   ]
 }
