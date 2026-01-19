@@ -25,7 +25,8 @@
       "arithmetic": {
         "TaskDescription": "Cognitive Workload 8-level arithmetic task.",
         "Instructions": "n/a",
-        "CogAtlasID": "n/a"
+        "CogAtlasID": "n/a",
+        "CogPOID": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00036"
       }
     }
   },
