@@ -1,6 +1,8 @@
 # QT-arithmetic_study
 Qt/PyQt5 arithmetic difficulty study that sends LSL markers for each trigger.
 
+Code used to run these experiments and convert the original xdf files to BIDS [can be found here.](https://github.com/LMBooth/QT-arithmetic_study)
+
 ## Quickstart
 1. Create a virtual environment and install dependencies.
 2. Run the experiment from the `Arithmetic_Difficulty` directory so the question set is found.
