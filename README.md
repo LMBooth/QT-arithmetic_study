@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/659735771.svg)](https://doi.org/10.5281/zenodo.18303716)
+
 # QT-arithmetic_study
 Qt/PyQt5 arithmetic difficulty study that sends LSL markers for each trigger.
 
