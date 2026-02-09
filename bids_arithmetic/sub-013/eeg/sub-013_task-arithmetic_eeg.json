@@ -1,0 +1,16 @@
+{
+  "TaskName": "arithmetic",
+  "PowerLineFrequency": 50.0,
+  "SamplingFrequency": 250.0,
+  "SoftwareFilters": "n/a",
+  "RecordingDuration": 802.004,
+  "RecordingType": "continuous",
+  "EEGGround": "n/a",
+  "EEGPlacementScheme": "based on the extended 10/20 system",
+  "EEGChannelCount": 19,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 1,
+  "EMGChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "MISCChannelCount": 4
+}

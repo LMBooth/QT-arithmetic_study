@@ -1,0 +1,28 @@
+{
+  "TaskName": "arithmetic",
+  "RecordingType": "continuous",
+  "SamplingFrequency": 250.0,
+  "StartTime": 0.0,
+  "Columns": [
+    "time",
+    "cardiac"
+  ],
+  "SourceChannels": [
+    "D1"
+  ],
+  "SourceStreamName": "EEGStream",
+  "time": {
+    "Description": "Time (s) relative to EEG recording start.",
+    "Format": "number",
+    "Units": "s"
+  },
+  "cardiac": {
+    "Description": "Electrocardiogram derived from the EEG auxiliary channel.",
+    "Format": "number",
+    "Units": "V"
+  },
+  "Manufacturer": "io:bio",
+  "ManufacturersModelName": "io:bio mobile EEG system",
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "n/a"
+}

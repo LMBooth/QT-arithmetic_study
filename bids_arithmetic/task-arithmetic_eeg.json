@@ -1,0 +1,38 @@
+{
+  "TaskName": "arithmetic",
+  "Manufacturer": "io:bio",
+  "PowerLineFrequency": 50.0,
+  "SamplingFrequency": 250.0,
+  "SoftwareFilters": "n/a",
+  "RecordingType": "continuous",
+  "EEGReference": "linked ears (Ag/AgCl)",
+  "EEGGround": "n/a",
+  "EEGPlacementScheme": "based on the extended 10/20 system",
+  "EEGChannelCount": 19,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 1,
+  "EMGChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "MISCChannelCount": 4,
+  "ManufacturersModelName": "io:bio mobile EEG system",
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "003",
+  "CapManufacturer": "Spes Medica",
+  "CapManufacturersModelName": "n/a",
+  "HardwareFilters": {
+    "Low-pass filter": {
+      "Half amplitude cutoff (Hz)": 125
+    },
+    "Notch filter": {
+      "Center frequency (Hz)": 50
+    }
+  },
+  "SubjectArtefactDescription": "n/a",
+  "InstitutionName": "n/a",
+  "InstitutionAddress": "n/a",
+  "InstitutionalDepartmentName": "n/a",
+  "TaskDescription": "Cognitive Workload 8-level arithmetic task.",
+  "Instructions": "n/a",
+  "CogAtlasID": "n/a",
+  "CogPOID": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00036"
+}

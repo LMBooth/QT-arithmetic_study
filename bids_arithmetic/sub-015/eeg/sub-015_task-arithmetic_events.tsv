@@ -1,0 +1,633 @@
+onset	duration	trial_type	timestamp_lsl	marker	response_accuracy	difficulty_range	outcome	istutorial	dropped_samples	marker_stream
+0.149151	0.012000	dropped_samples	5325.808082	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+1.257544	0.008000	dropped_samples	5326.916474	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+3.821037	0.004000	dropped_samples	5329.479967	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+4.641342	0.004000	dropped_samples	5330.300272	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+8.142316	0.012000	dropped_samples	5333.801247	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+13.137477	0.004000	dropped_samples	5338.796408	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+15.700952	0.004000	dropped_samples	5341.359882	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+15.945071	0.012000	dropped_samples	5341.604001	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+22.976335	0.004000	dropped_samples	5348.635265	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+25.686269	0.004000	dropped_samples	5351.345199	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+27.009547	0.004000	dropped_samples	5352.668478	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+27.966555	0.004000	dropped_samples	5353.625486	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+28.713648	0.012000	dropped_samples	5354.372579	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+34.856212	0.008000	dropped_samples	5360.515143	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+42.248804	0.008000	dropped_samples	5367.907734	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+43.327898	0.004000	dropped_samples	5368.986828	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+47.702281	0.008000	dropped_samples	5373.361212	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+47.741939	0.012000	dropped_samples	5373.400870	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+51.584841	0.004000	dropped_samples	5377.243772	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+52.014453	0.012000	dropped_samples	5377.673383	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+52.829870	0.004000	dropped_samples	5378.488801	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+53.926555	0.004000	dropped_samples	5379.585486	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+53.957776	0.004000	dropped_samples	5379.616707	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+55.594202	0.004000	dropped_samples	5381.253132	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+57.585710	0.012000	dropped_samples	5383.244641	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+59.475281	0.000000	started_tutorial_artihmetic	5385.134212	Started tutorial artihmetic	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+62.024344	0.012000	dropped_samples	5387.683274	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+64.065230	0.012000	dropped_samples	5389.724161	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+64.328940	0.004000	dropped_samples	5389.987871	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+66.321157	0.004000	dropped_samples	5391.980087	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+66.487101	0.004000	dropped_samples	5392.146031	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+68.840864	0.012000	dropped_samples	5394.499794	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+69.656086	0.004000	dropped_samples	5395.315017	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+76.662903	0.012000	dropped_samples	5402.321834	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+80.193212	0.012000	dropped_samples	5405.852142	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+80.359206	0.012000	dropped_samples	5406.018137	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+80.536763	0.012000	dropped_samples	5406.195693	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+80.910940	0.004000	dropped_samples	5406.569870	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+82.595815	0.004000	dropped_samples	5408.254745	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+83.166796	0.004000	dropped_samples	5408.825726	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+84.177625	0.004000	dropped_samples	5409.836556	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+85.569158	0.004000	dropped_samples	5411.228089	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+90.320122	0.012000	dropped_samples	5415.979052	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+92.288025	0.004000	dropped_samples	5417.946955	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+97.976533	0.004000	dropped_samples	5423.635463	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+98.479331	0.004000	dropped_samples	5424.138262	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+99.558450	0.004000	dropped_samples	5425.217380	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+100.710797	0.008000	dropped_samples	5426.369728	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+100.906084	0.012000	dropped_samples	5426.565014	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+103.132669	0.012000	dropped_samples	5428.791599	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+105.847496	0.012000	dropped_samples	5431.506426	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+111.150291	0.004000	dropped_samples	5436.809222	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+114.490106	0.004000	dropped_samples	5440.149037	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+116.838748	0.004000	dropped_samples	5442.497679	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+117.727385	0.004000	dropped_samples	5443.386316	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+118.015479	0.012000	dropped_samples	5443.674409	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+120.994124	0.004000	dropped_samples	5446.653054	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+121.833874	0.004000	dropped_samples	5447.492805	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+123.127846	0.004000	dropped_samples	5448.786776	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+123.342651	0.012000	dropped_samples	5449.001582	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+125.496781	0.000000	4_2_5_1	5451.155711	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+126.296772	0.004000	dropped_samples	5451.955702	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+127.209840	0.004000	dropped_samples	5452.868771	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+129.343620	0.012000	dropped_samples	5455.002550	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+129.539000	0.004000	dropped_samples	5455.197930	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+130.183484	0.004000	dropped_samples	5455.842415	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+131.506732	0.012000	dropped_samples	5457.165663	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+131.814330	0.012000	dropped_samples	5457.473260	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+132.082887	0.004000	dropped_samples	5457.741817	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+133.689338	0.012000	dropped_samples	5459.348268	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+135.155102	6.000000	4.2-5.1	5460.814032	4.2-5.1 Correct tutorial	1	4.2-5.1	Correct	true	n/a	arithmetic-Markers
+139.206937	0.004000	dropped_samples	5464.865867	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+141.667407	0.000000	3_3_4_2	5467.326337	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+141.873780	0.008000	dropped_samples	5467.532711	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+144.177633	0.012000	dropped_samples	5469.836563	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+146.286984	0.012000	dropped_samples	5471.945914	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+146.745937	6.000000	3.3-4.2	5472.404868	3.3-4.2 Wrong tutorial	0	3.3-4.2	Wrong	true	n/a	arithmetic-Markers
+147.751869	0.004000	dropped_samples	5473.410799	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+149.768477	0.004000	dropped_samples	5475.427408	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+150.247002	0.004000	dropped_samples	5475.905933	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+151.497011	0.004000	dropped_samples	5477.155941	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+151.882722	0.004000	dropped_samples	5477.541653	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+153.259295	0.000000	6_0_6_9	5478.918225	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+155.144435	0.004000	dropped_samples	5480.803365	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+155.362091	6.000000	6.0-6.9	5481.021021	6.0-6.9 Wrong tutorial	0	6.0-6.9	Wrong	true	n/a	arithmetic-Markers
+157.761626	0.004000	dropped_samples	5483.420557	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+158.362223	0.008000	dropped_samples	5484.021153	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+158.479490	0.004000	dropped_samples	5484.138421	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+159.607386	0.004000	dropped_samples	5485.266316	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+160.833013	0.008000	dropped_samples	5486.491944	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+161.877564	0.000000	2_4_3_3	5487.536494	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+163.831000	0.012000	dropped_samples	5489.489931	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+164.186699	6.000000	2.4-3.3	5489.845630	2.4-3.3 Correct tutorial	1	2.4-3.3	Correct	true	n/a	arithmetic-Markers
+164.338797	0.004000	dropped_samples	5489.997727	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+164.431573	0.004000	dropped_samples	5490.090504	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+170.683388	0.000000	1_5_2_4	5496.342319	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+170.886603	0.004000	dropped_samples	5496.545534	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+172.400307	0.004000	dropped_samples	5498.059238	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+172.914250	6.000000	1.5-2.4	5498.573180	1.5-2.4 Correct tutorial	1	1.5-2.4	Correct	true	n/a	arithmetic-Markers
+173.743145	0.004000	dropped_samples	5499.402075	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+173.938471	0.012000	dropped_samples	5499.597401	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+175.403248	0.004000	dropped_samples	5501.062178	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+179.422944	0.000000	0_6_1_5	5505.081874	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+179.626909	0.004000	dropped_samples	5505.285840	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+179.866177	0.008000	dropped_samples	5505.525108	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+181.481961	6.000000	0.6-1.5	5507.140891	0.6-1.5 Correct tutorial	1	0.6-1.5	Correct	true	n/a	arithmetic-Markers
+183.275166	0.004000	dropped_samples	5508.934097	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+185.193315	0.004000	dropped_samples	5510.852245	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+187.990146	0.000000	5_1_6_0	5513.649077	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+188.074186	0.008000	dropped_samples	5513.733117	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+190.735306	0.004000	dropped_samples	5516.394236	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+192.058590	0.008000	dropped_samples	5517.717520	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+193.254864	0.012000	dropped_samples	5518.913794	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+193.641727	6.000000	5.1-6.0	5519.300657	5.1-6.0 Wrong tutorial	0	5.1-6.0	Wrong	true	n/a	arithmetic-Markers
+194.145217	0.000000	finished_tutorial_arithmetic	5519.804147	Finished tutorial Arithmetic	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+194.817403	0.012000	dropped_samples	5520.476334	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+196.042943	0.004000	dropped_samples	5521.701874	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+196.947658	0.000000	started_arithmetic	5522.606589	Started arithmetic	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+202.449232	0.012000	dropped_samples	5528.108162	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+203.658110	0.012000	dropped_samples	5529.317040	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+203.953514	0.000000	6_0_6_9	5529.612444	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+204.753883	0.004000	dropped_samples	5530.412813	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+205.759757	0.008000	dropped_samples	5531.418687	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+206.746100	0.012000	dropped_samples	5532.405031	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+208.161945	6.000000	6.0-6.9	5533.820875	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+210.154302	0.012000	dropped_samples	5535.813232	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+210.466947	0.012000	dropped_samples	5536.125877	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+212.815380	0.004000	dropped_samples	5538.474310	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+214.671105	0.000000	0_6_1_5	5540.330036	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+215.554676	0.004000	dropped_samples	5541.213606	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+216.522094	6.000000	0.6-1.5	5542.181024	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+217.283183	0.004000	dropped_samples	5542.942114	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+217.835024	0.008000	dropped_samples	5543.493954	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+218.264626	0.012000	dropped_samples	5543.923557	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+218.816400	0.004000	dropped_samples	5544.475330	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+221.023449	0.004000	dropped_samples	5546.682379	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+221.648473	0.012000	dropped_samples	5547.307403	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+222.874026	0.004000	dropped_samples	5548.532957	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+223.042190	0.000000	5_1_6_0	5548.701121	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+225.605798	0.004000	dropped_samples	5551.264728	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+225.632873	0.012000	dropped_samples	5551.291803	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+226.375015	0.012000	dropped_samples	5552.033945	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+227.073254	0.012000	dropped_samples	5552.732184	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+227.377743	0.008000	dropped_samples	5553.036673	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+228.369515	0.012000	dropped_samples	5554.028445	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+228.548537	6.000000	5.1-6.0	5554.207468	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+229.255856	0.004000	dropped_samples	5554.914786	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+229.880882	0.012000	dropped_samples	5555.539812	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+230.144572	0.004000	dropped_samples	5555.803502	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+230.315448	0.004000	dropped_samples	5555.974378	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+232.859489	0.004000	dropped_samples	5558.518419	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+235.056428	0.000000	4_2_5_1	5560.715358	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+236.721953	0.012000	dropped_samples	5562.380883	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+237.825224	0.012000	dropped_samples	5563.484155	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+238.402047	0.004000	dropped_samples	5564.060977	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+238.640730	0.008000	dropped_samples	5564.299660	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+239.529370	0.012000	dropped_samples	5565.188301	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+239.817394	0.004000	dropped_samples	5565.476324	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+240.577437	6.000000	4.2-5.1	5566.236367	4.2-5.1 Wrong	0	4.2-5.1	Wrong	false	n/a	arithmetic-Markers
+241.736405	0.012000	dropped_samples	5567.395336	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+245.095716	0.012000	dropped_samples	5570.754646	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+245.457144	0.012000	dropped_samples	5571.116075	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+245.818419	0.012000	dropped_samples	5571.477349	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+245.916034	0.004000	dropped_samples	5571.574964	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+247.074233	0.000000	4_2_5_1	5572.733163	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+248.074274	0.008000	dropped_samples	5573.733204	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+248.889674	0.004000	dropped_samples	5574.548605	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+249.802925	0.008000	dropped_samples	5575.461855	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+251.176553	0.008000	dropped_samples	5576.835483	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+251.218772	0.008000	dropped_samples	5576.877702	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+251.482471	0.012000	dropped_samples	5577.141401	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+252.034324	0.008000	dropped_samples	5577.693254	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+253.418229	6.000000	4.2-5.1	5579.077159	4.2-5.1 Wrong	0	4.2-5.1	Wrong	false	n/a	arithmetic-Markers
+253.904330	0.004000	dropped_samples	5579.563260	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+255.442622	0.004000	dropped_samples	5581.101552	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+256.179699	0.004000	dropped_samples	5581.838629	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+256.472723	0.004000	dropped_samples	5582.131653	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+257.410188	0.012000	dropped_samples	5583.069118	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+257.795996	0.012000	dropped_samples	5583.454927	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+259.917219	0.000000	0_6_1_5	5585.576150	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+261.155365	0.004000	dropped_samples	5586.814296	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+261.377337	6.000000	0.6-1.5	5587.036268	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+263.723934	0.012000	dropped_samples	5589.382865	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+264.876028	0.004000	dropped_samples	5590.534958	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+266.464320	0.008000	dropped_samples	5592.123250	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+266.506874	0.012000	dropped_samples	5592.165804	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+267.219796	0.004000	dropped_samples	5592.878726	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+267.522905	0.012000	dropped_samples	5593.181836	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+267.887394	0.000000	3_3_4_2	5593.546324	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+268.182721	0.012000	dropped_samples	5593.841651	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+269.362536	0.012000	dropped_samples	5595.021467	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+269.651541	0.004000	dropped_samples	5595.310471	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+270.320413	0.004000	dropped_samples	5595.979343	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+270.594149	6.000000	3.3-4.2	5596.253080	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+270.754955	0.008000	dropped_samples	5596.413886	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+272.937610	0.012000	dropped_samples	5598.596541	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+275.144927	0.012000	dropped_samples	5600.803858	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+276.755938	0.012000	dropped_samples	5602.414869	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+277.105469	0.000000	1_5_2_4	5602.764399	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+279.882272	6.000000	1.5-2.4	5605.541203	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+282.537281	0.004000	dropped_samples	5608.196211	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+286.376420	0.000000	1_5_2_4	5612.035351	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+287.097792	0.012000	dropped_samples	5612.756722	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+288.097932	6.000000	1.5-2.4	5613.756862	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+294.598319	0.000000	2_4_3_3	5620.257249	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+294.827316	0.012000	dropped_samples	5620.486246	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+295.188672	0.004000	dropped_samples	5620.847602	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+295.520654	0.012000	dropped_samples	5621.179584	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+296.580149	0.004000	dropped_samples	5622.239079	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+297.441718	6.000000	2.4-3.3	5623.100648	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+301.331177	0.012000	dropped_samples	5626.990107	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+303.777463	0.004000	dropped_samples	5629.436393	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+303.935393	0.000000	3_3_4_2	5629.594323	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+304.329192	0.004000	dropped_samples	5629.988123	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+305.916191	0.008000	dropped_samples	5631.575122	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+308.172183	0.004000	dropped_samples	5633.831114	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+308.552821	0.012000	dropped_samples	5634.211751	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+309.658002	6.000000	3.3-4.2	5635.316933	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+313.650842	0.012000	dropped_samples	5639.309773	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+313.689566	0.008000	dropped_samples	5639.348497	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+314.216916	0.012000	dropped_samples	5639.875847	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+314.290219	0.004000	dropped_samples	5639.949149	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+316.151082	0.000000	3_3_4_2	5641.810013	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+316.643770	0.012000	dropped_samples	5642.302700	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+318.425488	6.000000	3.3-4.2	5644.084419	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+319.138814	0.008000	dropped_samples	5644.797745	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+323.171991	0.004000	dropped_samples	5648.830921	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+324.933888	0.000000	3_3_4_2	5650.592818	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+326.722237	6.000000	3.3-4.2	5652.381167	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+326.892740	0.004000	dropped_samples	5652.551671	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+329.099828	0.004000	dropped_samples	5654.758759	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+329.461112	0.004000	dropped_samples	5655.120042	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+330.032571	0.004000	dropped_samples	5655.691502	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+330.828291	0.004000	dropped_samples	5656.487222	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+333.201318	0.004000	dropped_samples	5658.860249	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+333.212725	0.000000	0_6_1_5	5658.871655	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+334.945974	6.000000	0.6-1.5	5660.604904	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+336.756153	0.004000	dropped_samples	5662.415083	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+338.845034	0.008000	dropped_samples	5664.503964	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+339.348987	0.004000	dropped_samples	5665.007917	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+341.473890	0.000000	6_0_6_9	5667.132820	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+345.393713	0.004000	dropped_samples	5671.052643	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+345.632949	0.004000	dropped_samples	5671.291879	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+347.161450	6.000000	6.0-6.9	5672.820381	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+347.244298	0.012000	dropped_samples	5672.903228	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+352.761959	0.012000	dropped_samples	5678.420889	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+353.147703	0.004000	dropped_samples	5678.806633	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+353.675032	0.012000	dropped_samples	5679.333963	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+353.676349	0.000000	1_5_2_4	5679.335280	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+354.661577	0.004000	dropped_samples	5680.320507	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+355.177930	6.000000	1.5-2.4	5680.836860	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+360.369390	0.004000	dropped_samples	5686.028320	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+361.678977	0.000000	0_6_1_5	5687.337908	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+362.625431	0.012000	dropped_samples	5688.284361	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+362.771627	0.012000	dropped_samples	5688.430557	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+363.362162	6.000000	0.6-1.5	5689.021093	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+367.258973	0.012000	dropped_samples	5692.917903	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+369.827356	0.012000	dropped_samples	5695.486286	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+369.861892	0.000000	2_4_3_3	5695.520823	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+371.754656	6.000000	2.4-3.3	5697.413586	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+375.252157	0.012000	dropped_samples	5700.911087	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+376.177288	0.012000	dropped_samples	5701.836218	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+376.209188	0.004000	dropped_samples	5701.868119	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+378.261291	0.000000	3_3_4_2	5703.920221	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+381.369332	6.000000	3.3-4.2	5707.028263	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+381.804900	0.008000	dropped_samples	5707.463830	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+385.042212	0.004000	dropped_samples	5710.701142	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+385.330498	0.004000	dropped_samples	5710.989429	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+386.170140	0.004000	dropped_samples	5711.829071	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+386.629261	0.004000	dropped_samples	5712.288192	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+387.229733	0.004000	dropped_samples	5712.888663	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+387.879319	0.000000	5_1_6_0	5713.538249	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+389.329731	6.000000	5.1-6.0	5714.988661	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+389.866404	0.004000	dropped_samples	5715.525335	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+391.668223	0.004000	dropped_samples	5717.327153	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+392.581268	0.004000	dropped_samples	5718.240198	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+392.674039	0.004000	dropped_samples	5718.332969	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+393.611638	0.012000	dropped_samples	5719.270568	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+395.826365	0.000000	1_5_2_4	5721.485295	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+397.425565	6.000000	1.5-2.4	5723.084495	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+399.109587	0.004000	dropped_samples	5724.768517	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+400.305947	0.004000	dropped_samples	5725.964877	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+403.113526	0.004000	dropped_samples	5728.772456	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+403.425998	0.008000	dropped_samples	5729.084928	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+403.920720	0.000000	6_0_6_9	5729.579650	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+404.002248	0.004000	dropped_samples	5729.661178	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+405.417440	6.000000	6.0-6.9	5731.076370	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+406.190624	0.004000	dropped_samples	5731.849554	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+406.692635	0.004000	dropped_samples	5732.351565	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+409.138859	0.012000	dropped_samples	5734.797789	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+411.938604	0.000000	5_1_6_0	5737.597534	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+414.202398	0.004000	dropped_samples	5739.861328	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+415.403607	0.012000	dropped_samples	5741.062538	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+416.697587	6.000000	5.1-6.0	5742.356517	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+416.721937	0.012000	dropped_samples	5742.380868	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+419.988507	0.008000	dropped_samples	5745.647438	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+421.428976	0.004000	dropped_samples	5747.087907	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+421.956328	0.008000	dropped_samples	5747.615258	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+422.219981	0.004000	dropped_samples	5747.878912	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+423.220820	0.000000	2_4_3_3	5748.879750	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+424.187800	0.008000	dropped_samples	5749.846731	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+426.878154	0.012000	dropped_samples	5752.537085	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+427.669193	0.004000	dropped_samples	5753.328123	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+427.793664	6.000000	2.4-3.3	5753.452595	2.4-3.3 Wrong	0	2.4-3.3	Wrong	false	n/a	arithmetic-Markers
+427.835273	0.004000	dropped_samples	5753.494203	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+428.723971	0.004000	dropped_samples	5754.382901	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+429.422104	0.008000	dropped_samples	5755.081035	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+430.564398	0.004000	dropped_samples	5756.223328	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+430.594044	0.004000	dropped_samples	5756.252974	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+432.468966	0.004000	dropped_samples	5758.127896	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+432.849884	0.004000	dropped_samples	5758.508814	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+434.294744	0.000000	6_0_6_9	5759.953675	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+435.954217	6.000000	6.0-6.9	5761.613148	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+436.380324	0.004000	dropped_samples	5762.039255	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+436.692835	0.004000	dropped_samples	5762.351766	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+437.195564	0.012000	dropped_samples	5762.854494	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+438.538344	0.008000	dropped_samples	5764.197274	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+439.313462	0.004000	dropped_samples	5764.972392	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+440.242478	0.004000	dropped_samples	5765.901409	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+441.106728	0.004000	dropped_samples	5766.765658	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+442.463409	0.000000	2_4_3_3	5768.122339	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+444.185605	6.000000	2.4-3.3	5769.844535	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+450.037403	0.004000	dropped_samples	5775.696334	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+450.693623	0.000000	6_0_6_9	5776.352554	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+452.103034	0.004000	dropped_samples	5777.761965	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+452.293245	0.004000	dropped_samples	5777.952175	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+452.674099	0.012000	dropped_samples	5778.333029	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+452.893846	0.004000	dropped_samples	5778.552777	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+454.236652	0.004000	dropped_samples	5779.895582	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+454.334377	0.004000	dropped_samples	5779.993308	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+455.569442	6.000000	6.0-6.9	5781.228372	6.0-6.9 Correct	1	6.0-6.9	Correct	false	n/a	arithmetic-Markers
+455.584557	0.012000	dropped_samples	5781.243487	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+455.628269	0.012000	dropped_samples	5781.287200	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+459.729839	0.012000	dropped_samples	5785.388769	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+460.139954	0.012000	dropped_samples	5785.798884	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+460.354810	0.012000	dropped_samples	5786.013741	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+462.081556	0.000000	0_6_1_5	5787.740487	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+463.020766	0.004000	dropped_samples	5788.679696	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+463.561866	6.000000	0.6-1.5	5789.220796	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+470.062776	0.000000	5_1_6_0	5795.721707	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+472.498356	0.004000	dropped_samples	5798.157286	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+472.835506	0.008000	dropped_samples	5798.494436	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+477.337610	6.000000	5.1-6.0	5802.996541	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+479.485699	0.008000	dropped_samples	5805.144629	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+479.700544	0.004000	dropped_samples	5805.359475	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+480.683813	0.012000	dropped_samples	5806.342744	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+482.146831	0.004000	dropped_samples	5807.805761	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+483.181988	0.004000	dropped_samples	5808.840918	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+483.660481	0.004000	dropped_samples	5809.319411	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+483.837542	0.000000	1_5_2_4	5809.496473	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+485.665470	6.000000	1.5-2.4	5811.324400	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+488.098932	0.012000	dropped_samples	5813.757862	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+489.827539	0.004000	dropped_samples	5815.486469	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+491.990582	0.008000	dropped_samples	5817.649512	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+492.167913	0.000000	1_5_2_4	5817.826843	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+495.374422	0.008000	dropped_samples	5821.033353	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+495.465154	6.000000	1.5-2.4	5821.124085	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+496.141004	0.012000	dropped_samples	5821.799934	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+497.102896	0.004000	dropped_samples	5822.761827	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+499.402821	0.004000	dropped_samples	5825.061752	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+501.922219	0.012000	dropped_samples	5827.581149	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+501.986232	0.000000	5_1_6_0	5827.645162	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+503.533539	0.012000	dropped_samples	5829.192470	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+507.015041	0.004000	dropped_samples	5832.673972	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+507.830411	0.004000	dropped_samples	5833.489342	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+509.246501	0.004000	dropped_samples	5834.905431	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+509.700549	0.012000	dropped_samples	5835.359479	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+510.241216	6.000000	5.1-6.0	5835.900146	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+511.043369	0.012000	dropped_samples	5836.702300	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+511.858861	0.004000	dropped_samples	5837.517791	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+516.326562	0.012000	dropped_samples	5841.985492	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+516.742586	0.000000	1_5_2_4	5842.401516	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+518.411499	0.008000	dropped_samples	5844.070430	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+518.641901	6.000000	1.5-2.4	5844.300831	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+522.058975	0.004000	dropped_samples	5847.717906	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+524.725008	0.004000	dropped_samples	5850.383939	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+525.148153	0.000000	5_1_6_0	5850.807083	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+525.995001	0.004000	dropped_samples	5851.653931	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+526.165435	0.008000	dropped_samples	5851.824365	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+526.331556	0.004000	dropped_samples	5851.990486	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+526.551198	0.012000	dropped_samples	5852.210129	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+526.617259	6.000000	5.1-6.0	5852.276190	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+527.342199	0.012000	dropped_samples	5853.001129	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+529.954471	0.008000	dropped_samples	5855.613401	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+530.315950	0.004000	dropped_samples	5855.974880	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+533.125380	0.000000	5_1_6_0	5858.784310	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+533.631270	0.012000	dropped_samples	5859.290200	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+534.753499	6.000000	5.1-6.0	5860.412430	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+535.079833	0.012000	dropped_samples	5860.738763	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+535.091433	0.012000	dropped_samples	5860.750364	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+535.213300	0.004000	dropped_samples	5860.872230	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+536.268058	0.012000	dropped_samples	5861.926988	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+539.314865	0.012000	dropped_samples	5864.973796	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+539.733767	0.004000	dropped_samples	5865.392697	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+540.301182	0.008000	dropped_samples	5865.960112	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+541.245556	0.000000	1_5_2_4	5866.904486	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+543.240700	6.000000	1.5-2.4	5868.899630	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+544.095168	0.004000	dropped_samples	5869.754099	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+549.744966	0.000000	6_0_6_9	5875.403897	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+551.881725	6.000000	6.0-6.9	5877.540655	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+554.461373	0.004000	dropped_samples	5880.120303	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+556.214267	0.004000	dropped_samples	5881.873198	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+558.384420	0.000000	3_3_4_2	5884.043350	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+558.973088	0.008000	dropped_samples	5884.632018	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+559.261171	0.012000	dropped_samples	5884.920101	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+559.506221	0.004000	dropped_samples	5885.165152	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+559.549268	0.008000	dropped_samples	5885.208199	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+560.076602	0.004000	dropped_samples	5885.735533	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+560.726024	0.004000	dropped_samples	5886.384954	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+561.481165	0.004000	dropped_samples	5887.140096	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+561.517045	0.012000	dropped_samples	5887.175975	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+561.756305	0.004000	dropped_samples	5887.415236	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+563.221141	0.004000	dropped_samples	5888.880071	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+563.233201	6.000000	3.3-4.2	5888.892131	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+565.213398	0.012000	dropped_samples	5890.872328	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+567.230013	0.004000	dropped_samples	5892.888943	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+567.358093	0.004000	dropped_samples	5893.017023	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+568.597094	0.012000	dropped_samples	5894.256025	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+569.736877	0.000000	0_6_1_5	5895.395807	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+570.110906	0.004000	dropped_samples	5895.769836	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+571.665063	6.000000	0.6-1.5	5897.323993	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+572.029771	0.012000	dropped_samples	5897.688701	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+575.437940	0.012000	dropped_samples	5901.096870	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+576.878339	0.012000	dropped_samples	5902.537269	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+578.183143	0.000000	2_4_3_3	5903.842073	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+580.452614	0.004000	dropped_samples	5906.111544	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+580.784889	6.000000	2.4-3.3	5906.443820	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+581.292512	0.004000	dropped_samples	5906.951442	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+583.982911	0.008000	dropped_samples	5909.641841	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+585.203645	0.004000	dropped_samples	5910.862576	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+586.907670	0.012000	dropped_samples	5912.566600	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+587.281510	0.000000	6_0_6_9	5912.940441	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+588.231035	0.004000	dropped_samples	5913.889965	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+589.598319	0.004000	dropped_samples	5915.257249	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+590.105545	6.000000	6.0-6.9	5915.764475	6.0-6.9 Correct	1	6.0-6.9	Correct	false	n/a	arithmetic-Markers
+592.835494	0.004000	dropped_samples	5918.494424	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+594.232018	0.004000	dropped_samples	5919.890948	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+596.341307	0.012000	dropped_samples	5922.000238	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+596.615051	0.000000	6_0_6_9	5922.273982	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+596.893064	0.012000	dropped_samples	5922.551994	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+597.132284	0.004000	dropped_samples	5922.791214	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+597.469197	0.004000	dropped_samples	5923.128128	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+598.297353	6.000000	6.0-6.9	5923.956283	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+601.839429	0.012000	dropped_samples	5927.498359	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+602.391094	0.004000	dropped_samples	5928.050025	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+604.801939	0.000000	6_0_6_9	5930.460869	6.0-6.9	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+606.404180	0.012000	dropped_samples	5932.063111	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+606.443877	0.012000	dropped_samples	5932.102807	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+606.780763	0.012000	dropped_samples	5932.439693	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+609.913307	6.000000	6.0-6.9	5935.572237	6.0-6.9 Wrong	0	6.0-6.9	Wrong	false	n/a	arithmetic-Markers
+612.303315	0.008000	dropped_samples	5937.962245	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+613.694868	0.008000	dropped_samples	5939.353798	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+615.926240	0.012000	dropped_samples	5941.585171	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+616.415941	0.000000	5_1_6_0	5942.074871	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+616.741675	0.012000	dropped_samples	5942.400605	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+617.845262	0.012000	dropped_samples	5943.504192	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+618.592339	0.004000	dropped_samples	5944.251269	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+619.281205	6.000000	5.1-6.0	5944.940136	5.1-6.0 Correct	1	5.1-6.0	Correct	false	n/a	arithmetic-Markers
+620.125478	0.012000	dropped_samples	5945.784409	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+621.999341	0.012000	dropped_samples	5947.658272	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+622.859854	0.004000	dropped_samples	5948.518785	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+623.147972	0.012000	dropped_samples	5948.806902	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+624.762656	0.004000	dropped_samples	5950.421587	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+625.777278	0.000000	0_6_1_5	5951.436208	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+627.745233	6.000000	0.6-1.5	5953.404163	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+633.157935	0.004000	dropped_samples	5958.816866	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+633.280188	0.004000	dropped_samples	5958.939118	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+633.831609	0.008000	dropped_samples	5959.490539	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+634.252519	0.000000	0_6_1_5	5959.911450	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+635.008323	0.012000	dropped_samples	5960.667253	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+635.193276	6.000000	0.6-1.5	5960.852206	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+635.604115	0.012000	dropped_samples	5961.263045	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+636.002264	0.012000	dropped_samples	5961.661194	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+636.204858	0.012000	dropped_samples	5961.863788	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+636.277919	0.004000	dropped_samples	5961.936850	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+636.327316	0.004000	dropped_samples	5961.986246	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+637.239786	0.004000	dropped_samples	5962.898716	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+638.748670	0.012000	dropped_samples	5964.407601	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+639.564048	0.008000	dropped_samples	5965.222979	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+640.072120	0.012000	dropped_samples	5965.731051	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+640.838497	0.012000	dropped_samples	5966.497428	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+641.706910	0.000000	0_6_1_5	5967.365841	0.6-1.5	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+643.304907	6.000000	0.6-1.5	5968.963838	0.6-1.5 Correct	1	0.6-1.5	Correct	false	n/a	arithmetic-Markers
+645.398980	0.012000	dropped_samples	5971.057911	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+647.942969	0.012000	dropped_samples	5973.601900	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+648.397053	0.004000	dropped_samples	5974.055984	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+648.543557	0.012000	dropped_samples	5974.202488	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+649.820900	0.000000	3_3_4_2	5975.479830	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+651.443955	0.012000	dropped_samples	5977.102886	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+651.639465	0.012000	dropped_samples	5977.298395	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+652.216860	6.000000	3.3-4.2	5977.875790	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+653.416561	0.012000	dropped_samples	5979.075491	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+654.710502	0.012000	dropped_samples	5980.369432	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+655.936146	0.012000	dropped_samples	5981.595077	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+656.893147	0.012000	dropped_samples	5982.552077	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+658.455658	0.012000	dropped_samples	5984.114589	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+658.728573	0.000000	5_1_6_0	5984.387503	5.1-6.0	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+659.007453	0.012000	dropped_samples	5984.666383	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+659.461587	0.004000	dropped_samples	5985.120517	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+659.725144	0.004000	dropped_samples	5985.384074	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+661.224805	6.000000	5.1-6.0	5986.883735	5.1-6.0 Wrong	0	5.1-6.0	Wrong	false	n/a	arithmetic-Markers
+663.108994	0.004000	dropped_samples	5988.767924	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+663.807214	0.016000	dropped_samples	5989.466144	Dropped 4 samples	n/a	n/a	n/a	n/a	4	UoHDataOffsetStream
+664.334605	0.004000	dropped_samples	5989.993535	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+665.316029	0.004000	dropped_samples	5990.974959	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+667.729104	0.000000	2_4_3_3	5993.388034	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+668.870777	0.012000	dropped_samples	5994.529707	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+669.925395	0.004000	dropped_samples	5995.584325	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+670.672497	0.012000	dropped_samples	5996.331427	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+670.993202	6.000000	2.4-3.3	5996.652132	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+675.877521	0.012000	dropped_samples	6001.536451	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+676.024186	0.004000	dropped_samples	6001.683116	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+677.500348	0.000000	2_4_3_3	6003.159279	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+677.630546	0.012000	dropped_samples	6003.289476	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+678.348216	0.004000	dropped_samples	6004.007146	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+678.924521	0.004000	dropped_samples	6004.583451	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+679.880825	6.000000	2.4-3.3	6005.539755	2.4-3.3 Wrong	0	2.4-3.3	Wrong	false	n/a	arithmetic-Markers
+680.799481	0.012000	dropped_samples	6006.458411	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+683.128525	0.016000	dropped_samples	6008.787455	Dropped 4 samples	n/a	n/a	n/a	n/a	4	UoHDataOffsetStream
+684.808582	0.012000	dropped_samples	6010.467513	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+686.397023	0.000000	1_5_2_4	6012.055953	1.5-2.4	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+688.273380	6.000000	1.5-2.4	6013.932310	1.5-2.4 Correct	1	1.5-2.4	Correct	false	n/a	arithmetic-Markers
+688.695020	0.012000	dropped_samples	6014.353950	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+688.934186	0.004000	dropped_samples	6014.593117	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+690.472296	0.012000	dropped_samples	6016.131227	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+693.445982	0.004000	dropped_samples	6019.104912	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+693.621034	0.004000	dropped_samples	6019.279964	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+693.660777	0.012000	dropped_samples	6019.319707	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+694.247523	0.012000	dropped_samples	6019.906453	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+694.525026	0.012000	dropped_samples	6020.183956	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+694.780983	0.000000	4_2_5_1	6020.439913	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+696.468401	0.012000	dropped_samples	6022.127331	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+697.044600	0.004000	dropped_samples	6022.703530	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+697.767304	0.012000	dropped_samples	6023.426235	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+698.172469	0.004000	dropped_samples	6023.831400	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+698.939540	0.012000	dropped_samples	6024.598470	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+700.286759	0.008000	dropped_samples	6025.945689	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+702.591474	0.012000	dropped_samples	6028.250404	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+703.504500	0.004000	dropped_samples	6029.163431	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+703.984593	6.000000	4.2-5.1	6029.643524	4.2-5.1 Correct	1	4.2-5.1	Correct	false	n/a	arithmetic-Markers
+706.624650	0.012000	dropped_samples	6032.283580	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+709.383518	0.012000	dropped_samples	6035.042448	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+710.247721	0.004000	dropped_samples	6035.906651	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+710.494262	0.000000	3_3_4_2	6036.153193	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+711.517324	0.004000	dropped_samples	6037.176255	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+711.878549	0.012000	dropped_samples	6037.537480	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+713.944834	6.000000	3.3-4.2	6039.603764	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+715.550438	0.004000	dropped_samples	6041.209368	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+718.983158	0.008000	dropped_samples	6044.642088	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+720.448226	0.000000	4_2_5_1	6046.107156	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+721.575914	0.012000	dropped_samples	6047.234844	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+725.101234	0.004000	dropped_samples	6050.760164	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+725.296645	0.012000	dropped_samples	6050.955575	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+726.144847	6.000000	4.2-5.1	6051.803778	4.2-5.1 Correct	1	4.2-5.1	Correct	false	n/a	arithmetic-Markers
+726.639320	0.012000	dropped_samples	6052.298251	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+727.527998	0.012000	dropped_samples	6053.186928	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+728.533908	0.004000	dropped_samples	6054.192838	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+730.238035	0.004000	dropped_samples	6055.896966	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+732.646326	0.000000	2_4_3_3	6058.305256	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+735.041205	6.000000	2.4-3.3	6060.700135	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+735.828804	0.004000	dropped_samples	6061.487734	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+737.557312	0.012000	dropped_samples	6063.216243	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+738.695966	0.012000	dropped_samples	6064.354896	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+739.598343	0.004000	dropped_samples	6065.257274	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+739.842530	0.004000	dropped_samples	6065.501460	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+741.351278	0.012000	dropped_samples	6067.010208	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+741.547319	0.000000	2_4_3_3	6067.206250	2.4-3.3	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+742.635825	0.004000	dropped_samples	6068.294755	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+742.669609	0.004000	dropped_samples	6068.328539	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+743.030950	0.012000	dropped_samples	6068.689880	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+743.408736	6.000000	2.4-3.3	6069.067667	2.4-3.3 Correct	1	2.4-3.3	Correct	false	n/a	arithmetic-Markers
+744.925482	0.012000	dropped_samples	6070.584412	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+745.384568	0.004000	dropped_samples	6071.043499	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+745.960646	0.008000	dropped_samples	6071.619576	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+746.942044	0.008000	dropped_samples	6072.600974	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+748.528741	0.012000	dropped_samples	6074.187671	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+748.744079	0.004000	dropped_samples	6074.403009	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+749.632515	0.004000	dropped_samples	6075.291445	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+749.913874	0.000000	3_3_4_2	6075.572805	3.3-4.2	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+749.920904	0.004000	dropped_samples	6075.579835	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+750.013354	0.004000	dropped_samples	6075.672285	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+751.405048	0.004000	dropped_samples	6077.063979	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+751.745000	6.000000	3.3-4.2	6077.403930	3.3-4.2 Correct	1	3.3-4.2	Correct	false	n/a	arithmetic-Markers
+751.888374	0.004000	dropped_samples	6077.547305	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+755.369829	0.004000	dropped_samples	6081.028759	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+758.261040	0.000000	4_2_5_1	6083.919970	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+759.373709	0.012000	dropped_samples	6085.032639	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+760.239962	0.004000	dropped_samples	6085.898892	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+762.008944	6.000000	4.2-5.1	6087.667874	4.2-5.1 Correct	1	4.2-5.1	Correct	false	n/a	arithmetic-Markers
+763.094478	0.004000	dropped_samples	6088.753409	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+763.406989	0.004000	dropped_samples	6089.065920	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+765.760516	0.004000	dropped_samples	6091.419446	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+766.287978	0.004000	dropped_samples	6091.946909	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+766.792853	0.012000	dropped_samples	6092.451783	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+767.030017	0.008000	dropped_samples	6092.688947	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+768.532020	0.000000	4_2_5_1	6094.190950	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+770.864933	6.000000	4.2-5.1	6096.523863	4.2-5.1 Correct	1	4.2-5.1	Correct	false	n/a	arithmetic-Markers
+772.166723	0.004000	dropped_samples	6097.825653	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+772.601256	0.012000	dropped_samples	6098.260186	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+773.509468	0.004000	dropped_samples	6099.168398	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+775.286887	0.004000	dropped_samples	6100.945817	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+777.352339	0.004000	dropped_samples	6103.011270	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+777.385034	0.000000	4_2_5_1	6103.043964	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+784.864710	6.000000	4.2-5.1	6110.523641	4.2-5.1 Wrong	0	4.2-5.1	Wrong	false	n/a	arithmetic-Markers
+784.984159	0.004000	dropped_samples	6110.643089	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+787.288804	0.012000	dropped_samples	6112.947734	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+787.381573	0.004000	dropped_samples	6113.040503	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+788.753722	0.008000	dropped_samples	6114.412652	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+791.199956	0.004000	dropped_samples	6116.858886	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+791.372066	0.000000	4_2_5_1	6117.030996	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+791.561284	0.012000	dropped_samples	6117.220214	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+795.374778	0.004000	dropped_samples	6121.033709	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+795.521244	0.016000	dropped_samples	6121.180174	Dropped 4 samples	n/a	n/a	n/a	n/a	4	UoHDataOffsetStream
+796.193042	6.000000	4.2-5.1	6121.851972	4.2-5.1 Wrong	0	4.2-5.1	Wrong	false	n/a	arithmetic-Markers
+797.293721	0.008000	dropped_samples	6122.952651	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+798.089577	0.008000	dropped_samples	6123.748507	Dropped 2 samples	n/a	n/a	n/a	n/a	2	UoHDataOffsetStream
+801.497876	0.004000	dropped_samples	6127.156806	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+802.684945	0.000000	4_2_5_1	6128.343875	4.2-5.1	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+803.509524	0.004000	dropped_samples	6129.168454	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+804.349336	0.004000	dropped_samples	6130.008266	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+805.526106	0.012000	dropped_samples	6131.185036	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+807.489379	6.000000	4.2-5.1	6133.148309	4.2-5.1 Correct	1	4.2-5.1	Correct	false	n/a	arithmetic-Markers
+807.989656	0.000000	finished_arithmetic	6133.648586	Finished Arithmetic	n/a	n/a	n/a	n/a	n/a	arithmetic-Markers
+809.154051	0.004000	dropped_samples	6134.812982	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+810.570208	0.004000	dropped_samples	6136.229138	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+810.858155	0.012000	dropped_samples	6136.517086	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+811.024180	0.004000	dropped_samples	6136.683110	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+812.630642	0.012000	dropped_samples	6138.289572	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+813.231290	0.004000	dropped_samples	6138.890220	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream
+816.112505	0.012000	dropped_samples	6141.771435	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+817.117903	0.012000	dropped_samples	6142.776833	Dropped 3 samples	n/a	n/a	n/a	n/a	3	UoHDataOffsetStream
+820.513757	0.004000	dropped_samples	6146.172688	Dropped 1 samples	n/a	n/a	n/a	n/a	1	UoHDataOffsetStream

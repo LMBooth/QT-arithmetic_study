@@ -10,7 +10,7 @@ venv/
 ENV/
 *.egg-info/
 markers_arithmetic/
-bids_arithmetic/
+
 bids_stub/
 dist/
 build/
@@ -23,3 +23,29 @@ build/
 *.swp
 Thumbs.db
 Desktop.ini
+
+# Local assistant/session files
+AGENTS.md
+
+# Large raw data and generated artifacts
+bids_arithmetic/sourcedata/
+bids_arithmetic/sub-*/eeg/*.eeg
+bids_arithmetic/sub-*/ecg/*_physio.tsv
+bids_arithmetic/sub-*/pupil/*_pupil.tsv
+analysis_pipeline/derivatives/
+analysis_pipeline/features/
+analysis_pipeline/models/
+analysis_pipeline/reports/
+analysis_pipeline/logs/
+analysis_pipeline/analysis_pipeline/
+analysis_pipeline/config/analysis_pipeline/
+
+# Common large binary formats
+*.xdf
+*.fif
+*.npz
+*.npy
+*.pt
+*.pth
+*.h5
+*.hdf5

@@ -1,0 +1,59 @@
+{
+  "TaskName": "arithmetic",
+  "RecordingType": "continuous",
+  "PhysioType": "eyetrack",
+  "Manufacturer": "Pupil Labs",
+  "ManufacturersModelName": "Pupil Core",
+  "SoftwareVersions": "Pupil LSL Relay 2.1",
+  "DeviceSerialNumber": "n/a",
+  "SamplingFrequency": 248.66343376652821,
+  "StartTime": -0.11476269358445279,
+  "Columns": [
+    "time",
+    "timestamp",
+    "x_coordinate",
+    "y_coordinate",
+    "pupil_size",
+    "confidence",
+    "norm_pos_x",
+    "norm_pos_y"
+  ],
+  "SourceStreamName": "pupil_capture",
+  "time": {
+    "Description": "Time (s) relative to eye-tracking stream start; add StartTime to align with EEG.",
+    "Format": "number",
+    "Units": "s"
+  },
+  "timestamp": {
+    "Description": "Original LSL timestamp from the pupil stream.",
+    "Format": "number",
+    "Units": "s"
+  },
+  "x_coordinate": {
+    "Description": "Gaze x-position in normalized coordinates (0-1) derived from norm_pos_x (clipped to [0, 1]).",
+    "Format": "number",
+    "Units": "n/a"
+  },
+  "y_coordinate": {
+    "Description": "Gaze y-position in normalized coordinates (0-1) derived from norm_pos_y (clipped to [0, 1]).",
+    "Format": "number",
+    "Units": "n/a"
+  },
+  "pupil_size": {
+    "Description": "Mean pupil diameter from available diameter channels (negative values clipped to 0).",
+    "Format": "number",
+    "Units": "n/a"
+  },
+  "confidence": {
+    "Description": "Pupil Labs gaze confidence (0-1).",
+    "Format": "number"
+  },
+  "norm_pos_x": {
+    "Description": "Gaze x-position in normalized coordinates.",
+    "Format": "number"
+  },
+  "norm_pos_y": {
+    "Description": "Gaze y-position in normalized coordinates.",
+    "Format": "number"
+  }
+}

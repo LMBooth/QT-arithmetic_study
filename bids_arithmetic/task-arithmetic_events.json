@@ -1,0 +1,71 @@
+{
+  "StimulusPresentation": {},
+  "marker_stream": {
+    "Description": "LSL marker stream name that generated this event.",
+    "Levels": {
+      "UoHDataOffsetStream": "Marker stream reporting dropped sample counts (e.g., 'Dropped N samples').",
+      "arithmetic-Markers": "Task marker stream for the arithmetic paradigm."
+    }
+  },
+  "trial_type": {
+    "Description": "Event type / condition label.",
+    "Levels": {
+      "0.6-1.5": "Arithmetic trial with difficulty_range=0.6-1.5.",
+      "0_6_1_5": "Task marker.",
+      "1.5-2.4": "Arithmetic trial with difficulty_range=1.5-2.4.",
+      "1_5_2_4": "Task marker.",
+      "2.4-3.3": "Arithmetic trial with difficulty_range=2.4-3.3.",
+      "2_4_3_3": "Task marker.",
+      "3.3-4.2": "Arithmetic trial with difficulty_range=3.3-4.2.",
+      "3_3_4_2": "Task marker.",
+      "4.2-5.1": "Arithmetic trial with difficulty_range=4.2-5.1.",
+      "4_2_5_1": "Task marker.",
+      "5.1-6.0": "Arithmetic trial with difficulty_range=5.1-6.0.",
+      "5_1_6_0": "Task marker.",
+      "6.0-6.9": "Arithmetic trial with difficulty_range=6.0-6.9.",
+      "6_0_6_9": "Task marker.",
+      "dropped_samples": "Dropout annotation from acquisition (dropped samples).",
+      "finished_arithmetic": "Task marker.",
+      "finished_tutorial_arithmetic": "Task marker.",
+      "started_arithmetic": "Task marker.",
+      "started_tutorial_artihmetic": "Task marker."
+    }
+  },
+  "response_accuracy": {
+    "Description": "1=correct, 0=incorrect (when applicable).",
+    "Levels": {
+      "1": "Correct response.",
+      "0": "Incorrect response."
+    }
+  },
+  "istutorial": {
+    "Description": "Whether this trial was marked as tutorial (when applicable).",
+    "Levels": {
+      "True": "Tutorial.",
+      "False": "Non-tutorial.",
+      "true": "Tutorial.",
+      "false": "Non-tutorial."
+    }
+  },
+  "outcome": {
+    "Description": "Correct/Wrong (when applicable).",
+    "Levels": {
+      "Correct": "Correct.",
+      "Wrong": "Wrong."
+    }
+  },
+  "timestamp_lsl": {
+    "Description": "Original LSL timestamp for this marker.",
+    "Units": "s"
+  },
+  "marker": {
+    "Description": "Raw marker string emitted on the LSL marker stream."
+  },
+  "difficulty_range": {
+    "Description": "Arithmetic difficulty range (qmin-qmax) when applicable."
+  },
+  "dropped_samples": {
+    "Description": "Number of dropped samples reported by the dropout stream.",
+    "Units": "samples"
+  }
+}
