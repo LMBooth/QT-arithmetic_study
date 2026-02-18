@@ -38,6 +38,11 @@ python mainExperiment.py
 - The arithmetic-only BIDS conversion pipeline lives in `conversion_package/`; follow `conversion_package/README.md` to rebuild `bids_arithmetic` from the XDFs and demographics.
 - The QC plotter is included in `conversion_package/qc` for inspecting EEG/ECG/pupil with event overlays after conversion; see `conversion_package/qc/README.md` for usage.
 
+## Analysis code location
+- The ML feature extraction and workload-estimation pipeline now lives in a separate repository:
+  - `https://github.com/LMBooth/Arithmetic_Workload_Estimation`
+- This repository is reserved for experiment code, capture assets, and BIDS/data-descriptor workflows.
+
 ## Requirements
 - Python 3.11+ 
 - OS: Windows (developed on Windows 11 Professional)
